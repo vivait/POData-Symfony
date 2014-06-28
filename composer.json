@@ -1,5 +1,5 @@
 {
-	"name": "vivait/POData-Symfony2",
+	"name": "vivait/podata-symfony2",
 	"type": "library",
 	"description": "POData Symfony2 MVC Controller bridge",
 	"keywords": [ "rest", "odata", "symfony", "podata" ],
